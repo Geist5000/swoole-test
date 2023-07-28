@@ -1,0 +1,25 @@
+{
+  "name": "gesit/swoole",
+  "type": "project",
+  "description": "",
+  "license": "MIT",
+  "require": {
+    "php": "^8.0.2",
+    "openswoole/core": "22.1.2"
+  },
+  "require-dev": {
+
+  },
+  "scripts": {
+
+  },
+  "extra": {
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
